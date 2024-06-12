@@ -1,4 +1,4 @@
-# Проект Новостной сайт
+# Модуль 6. Принципы работы JavaScript (6.8. Практическая работа)
 Выполнил студент [Волотовский Роман](https://github.com/Volotovskii/task_5_11.git) поток PHPPRO_22.
 
 Разработан в качестве практического задания - <a href = "https://apps.skillfactory.ru/learning/course/course-v1:SkillFactory+PHPPRO+2022/block-v1:SkillFactory+PHPPRO+2022+type@sequential+block@d8c551a96c3a48c2ab10e4ffe724abbf/block-v1:SkillFactory+PHPPRO+2022+type@vertical+block@c1b3a30374fe42f7957048847a3090c8"> Модуль 6. Принципы работы JavaScript (6.8. Практическая работа) </a>
@@ -16,6 +16,8 @@
 ## Как открыть/запустить
 
 Зайти в папку сайта в файловом менеджере, кликнуть 2 раза по файлу index.html.
+
+Воспользоваться сервисом <a href = "https://volotovskii.github.io/task_js_6_8/" target="_blank">GitHub Pages</a>
 
 ## Критерии оценки
 
